@@ -59,7 +59,7 @@ graph TD
     style A fill:#1a73e8,color:#fff
     style I fill:#f9ab00,color:#fff
     style J fill:#34a853,color:#fff
-```text
+```
 
 ## 3. Core Components
 
